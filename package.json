@@ -3,7 +3,7 @@
     "displayName": "Lex Flex Yacc Bison",
     "description": "Language support for Lex, Flex, Yacc and Bison.",
     "version": "0.0.2",
-    "publisher": "dizys",
+    "publisher": "Dizy",
     "icon": "images/icon.png",
     "license": "MIT",
 	"repository": {
