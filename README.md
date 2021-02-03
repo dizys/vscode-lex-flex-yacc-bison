@@ -1,5 +1,7 @@
 # Lex Flex Yacc Bison
 
+> This is a fork of the original open source VSCode extension [here](https://github.com/faustinoaq/vscode-lex-flex-yacc-bison/) with the intent of making this extension available in [Open VSX Registry](https://open-vsx.org/).
+
 Syntax highlighting for Lex, Flex, Yacc and Bison.
 
 This extension is based on these extensions:

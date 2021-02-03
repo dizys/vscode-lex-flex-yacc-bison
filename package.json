@@ -3,14 +3,14 @@
     "displayName": "Lex Flex Yacc Bison",
     "description": "Language support for Lex, Flex, Yacc and Bison.",
     "version": "0.0.2",
-    "publisher": "faustinoaq",
+    "publisher": "Dizy",
     "icon": "images/icon.png",
     "license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/faustinoaq/vscode-lex-flex-yacc-bison"
+		"url": "https://github.com/dizys/vscode-lex-flex-yacc-bison"
 	},
-	"bugs": "https://github.com/faustinoaq/vscode-lex-flex-yacc-bison/issues",
+	"bugs": "https://github.com/dizys/vscode-lex-flex-yacc-bison/issues",
     "engines": {
         "vscode": "^1.12.0"
     },
@@ -23,7 +23,7 @@
 		"languages"
 	],
     "categories": [
-        "Languages"
+        "Programming Languages"
     ],
 	"galleryBanner": {
 		"color": "#b4459a",
